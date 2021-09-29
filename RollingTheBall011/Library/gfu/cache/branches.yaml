@@ -13,11 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-09-28T16:26:20.636-04:00
-  initializedAtString: 2021-09-28T16:24:31.684-04:00
-  localBranches: []
+  lastUpdatedAtString: 2021-09-28T22:33:52.565-04:00
+  initializedAtString: 2021-09-28T21:16:53.506-04:00
+  localBranches:
+  - name: main
+    tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -28,17 +32,29 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - main
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/jalenslutzky2001/RollTheBall011.git
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
+      - main
     subKeyValues:
     - Values:
       - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/jalenslutzky2001/RollTheBall011.git
+        trackingBranch: 
+      - name: main
         remote:
           name: origin
           url: https://github.com/jalenslutzky2001/RollTheBall011.git
