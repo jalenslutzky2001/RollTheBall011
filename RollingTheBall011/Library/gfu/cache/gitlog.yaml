@@ -1,0 +1,1964 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-09-28T16:26:17.679-04:00
+  initializedAtString: 2021-09-28T16:24:57.416-04:00
+  log:
+  - commitID: 4a7a86787731fee312f65bb78bea05cd994fdf89
+    mergeA: 
+    mergeB: 
+    authorName: jalenslutzky2001
+    authorEmail: jadslutz@iu.edu
+    commitEmail: jadslutz@iu.edu
+    commitName: jalenslutzky2001
+    summary: created new objects
+    description: 
+    timeString: 2021-09-28T16:23:02.000-04:00
+    commitTimeString: 2021-09-28T16:23:02.000-04:00
+    changes:
+    - path: RollingTheBall011\Assets\Input.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Input.meta
+      projectPath: Assets\Input.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Input\InputActions.inputactions
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Input\InputActions.inputactions
+      projectPath: Assets\Input\InputActions.inputactions
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Input\InputActions.inputactions.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Input\InputActions.inputactions.meta
+      projectPath: Assets\Input\InputActions.inputactions.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Materials.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Materials.meta
+      projectPath: Assets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Materials\Material1.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Materials\Material1.mat
+      projectPath: Assets\Materials\Material1.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Materials\Material1.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Materials\Material1.mat.meta
+      projectPath: Assets\Materials\Material1.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Minigame.unity
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Minigame.unity
+      projectPath: Assets\Minigame.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Minigame.unity.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Minigame.unity.meta
+      projectPath: Assets\Minigame.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\NewBehaviourScript.cs
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\NewBehaviourScript.cs
+      projectPath: Assets\NewBehaviourScript.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\NewBehaviourScript.cs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\NewBehaviourScript.cs.meta
+      projectPath: Assets\NewBehaviourScript.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\PlayerController.cs
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\PlayerController.cs
+      projectPath: Assets\PlayerController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\PlayerController.cs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\PlayerController.cs.meta
+      projectPath: Assets\PlayerController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins.meta
+      projectPath: Assets\Plugins.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub.meta
+      projectPath: Assets\Plugins\GitHub.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor.meta
+      projectPath: Assets\Plugins\GitHub\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\System.Threading.dll
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\credits.txt
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\credits.txt
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\credits.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\eula.txt
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\eula.txt
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\eula.txt.meta
+      projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.bundle
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.so
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.so
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\sfw.net.dll
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x64.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x64.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x86.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x86.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\RollBall.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\RollBall.meta
+      projectPath: Assets\RollBall.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template.meta
+      projectPath: Assets\Template.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets.meta
+      projectPath: Assets\Template\ExampleAssets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials.meta
+      projectPath: Assets\Template\ExampleAssets\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\ConstructionLight_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\ConstructionLight_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\ConstructionLight_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\ConstructionLight_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\ConstructionLight_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\ConstructionLight_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWallPainted_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWallPainted_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\DryWallPainted_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWallPainted_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWallPainted_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\DryWallPainted_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWall_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWall_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\DryWall_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWall_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\DryWall_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\DryWall_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Ground_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Ground_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Ground_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Ground_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Ground_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Ground_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Hammer_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Hammer_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Hammer_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Hammer_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Hammer_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Hammer_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\HardHat_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\HardHat_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\HardHat_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\HardHat_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\HardHat_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\HardHat_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Jigsaw_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Jigsaw_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Jigsaw_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Jigsaw_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Jigsaw_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Jigsaw_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\LightBulb_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\LightBulb_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\LightBulb_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\LightBulb_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\LightBulb_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\LightBulb_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Liquid_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Liquid_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Liquid_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Liquid_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Liquid_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Liquid_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Blue_Simple_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Blue_Simple_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Metal_Blue_Simple_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Blue_Simple_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Blue_Simple_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Metal_Blue_Simple_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Simple_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Simple_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Metal_Simple_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Simple_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Metal_Simple_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Metal_Simple_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\OBS_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\OBS_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\OBS_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\OBS_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\OBS_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\OBS_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Paint1G_WAnim_Material.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Paint1G_WAnim_Material.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Paint1G_WAnim_Material.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Paint1G_WAnim_Material.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Paint1G_WAnim_Material.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Paint1G_WAnim_Material.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintBrush_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintBrush_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\PaintBrush_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintBrush_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintBrush_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\PaintBrush_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintLabel_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintLabel_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\PaintLabel_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintLabel_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\PaintLabel_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\PaintLabel_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Black_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Black_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Black_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Black_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Black_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Black_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Gray_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Gray_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Gray_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Gray_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Gray_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Gray_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Ridges_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Ridges_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Ridges_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Ridges_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Ridges_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Ridges_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Rough_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Rough_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Rough_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Rough_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Rough_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Rough_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Transparent.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Transparent.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Transparent.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Transparent.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Transparent.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Transparent.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_White_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_White_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_White_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_White_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_White_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_White_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Yellow_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Yellow_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Yellow_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Yellow_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Plastic_Yellow_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Plastic_Yellow_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Strap_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Strap_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Strap_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Strap_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Strap_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Strap_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Stud_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Stud_Mat.mat
+      projectPath: Assets\Template\ExampleAssets\Materials\Stud_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Materials\Stud_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Materials\Stud_Mat.mat.meta
+      projectPath: Assets\Template\ExampleAssets\Materials\Stud_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models.meta
+      projectPath: Assets\Template\ExampleAssets\Models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\ConstructionLight_Low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\ConstructionLight_Low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\ConstructionLight_Low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\ConstructionLight_Low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\ConstructionLight_Low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\ConstructionLight_Low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Stud.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Stud.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\Stud.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Stud.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Stud.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\Stud.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\Workbench.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\Workbench.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench_Low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench_Low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\Workbench_Low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench_Low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Workbench_Low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\Workbench_Low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Workshop_Set.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Workshop_Set.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\Workshop_Set.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\Workshop_Set.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\Workshop_Set.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\Workshop_Set.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\brush_low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\brush_low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\brush_low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\brush_low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\brush_low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\brush_low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\hammer_low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\hammer_low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\hammer_low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\hammer_low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\hammer_low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\hammer_low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\jigsaw_low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\jigsaw_low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\jigsaw_low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\jigsaw_low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\jigsaw_low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\jigsaw_low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\magneticlevel_low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\magneticlevel_low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\magneticlevel_low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\magneticlevel_low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\magneticlevel_low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\magneticlevel_low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\paintbucket_low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\paintbucket_low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\paintbucket_low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\paintbucket_low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\paintbucket_low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\paintbucket_low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\safetygoggles_low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\safetygoggles_low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\safetygoggles_low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\safetygoggles_low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\safetygoggles_low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\safetygoggles_low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\safetyhat_low.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\safetyhat_low.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\safetyhat_low.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\safetyhat_low.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\safetyhat_low.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\safetyhat_low.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\small_plane.fbx
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\small_plane.fbx
+      projectPath: Assets\Template\ExampleAssets\Models\small_plane.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Models\small_plane.fbx.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Models\small_plane.fbx.meta
+      projectPath: Assets\Template\ExampleAssets\Models\small_plane.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Construction
+        Light Low.prefab
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Construction
+        Light Low.prefab
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Construction Light Low.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Construction
+        Light Low.prefab.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Construction
+        Light Low.prefab.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Construction Light Low.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Paint Supplies.prefab
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Paint
+        Supplies.prefab
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Paint Supplies.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Paint Supplies.prefab.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Paint
+        Supplies.prefab.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Paint Supplies.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Props.prefab
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Props.prefab
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Props.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Props.prefab.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Props.prefab.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Props.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench.prefab
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench.prefab
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workbench.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench.prefab.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench.prefab.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workbench.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD0.prefab
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD0.prefab
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workbench_LOD0.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD0.prefab.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD0.prefab.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workbench_LOD0.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD1.prefab
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD1.prefab
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workbench_LOD1.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD1.prefab.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workbench_LOD1.prefab.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workbench_LOD1.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workshop Set.prefab
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workshop
+        Set.prefab
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workshop Set.prefab
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workshop Set.prefab.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Prefabs\Workshop
+        Set.prefab.meta
+      projectPath: Assets\Template\ExampleAssets\Prefabs\Workshop Set.prefab.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Shaders.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Shaders.meta
+      projectPath: Assets\Template\ExampleAssets\Shaders.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Shaders\Paint1G_WAnim_Shader.shadergraph
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Shaders\Paint1G_WAnim_Shader.shadergraph
+      projectPath: Assets\Template\ExampleAssets\Shaders\Paint1G_WAnim_Shader.shadergraph
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Shaders\Paint1G_WAnim_Shader.shadergraph.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Shaders\Paint1G_WAnim_Shader.shadergraph.meta
+      projectPath: Assets\Template\ExampleAssets\Shaders\Paint1G_WAnim_Shader.shadergraph.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures.meta
+      projectPath: Assets\Template\ExampleAssets\Textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Concrete.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Concrete\Ground_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Concrete\Ground_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Concrete\Ground_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Concrete\Ground_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Concrete\Ground_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Concrete\Ground_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Concrete\Ground_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\DrywallPainted_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\DrywallPainted_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\DrywallPainted_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\DrywallPainted_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\DrywallPainted_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\DrywallPainted_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_AlbedoSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_AlbedoSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\Drywall_AlbedoSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_AlbedoSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_AlbedoSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\Drywall_AlbedoSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Drywall\Drywall_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Metal.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Metal\Metal_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Metal\Metal_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_MetallicSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_MetallicSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Metal\Metal_MetallicSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_MetallicSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_MetallicSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Metal\Metal_MetallicSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Metal\Metal_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Metal\Metal_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Metal\Metal_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Elastic_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Elastic_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Elastic_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Elastic_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Elastic_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRidges_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\PlasticRough_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_AlbedoSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_AlbedoSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Plastic_AlbedoSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_AlbedoSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_AlbedoSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Plastic_AlbedoSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Plastic_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Plastic\Plastic_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Plastic\Plastic_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Construction_Light.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Construction_Light\ConstructionLight_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Hammer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Hammer\Hammer_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\HardHat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\HardHat\SafetyHat_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Jigsaw.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Jigsaw\Jigsaw_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_MetallicOcculusionRoughness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_MetallicOcculusionRoughness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_MetallicOcculusionRoughness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_MetallicOcculusionRoughness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_MetallicOcculusionRoughness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_MetallicOcculusionRoughness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint1G_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint5G_AlbedoSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint5G_AlbedoSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint5G_AlbedoSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint5G_AlbedoSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paint5G_AlbedoSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paint5G_AlbedoSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintAnimMask.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintAnimMask.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\PaintAnimMask.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintAnimMask.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintAnimMask.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\PaintAnimMask.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintLabel.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintLabel.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\PaintLabel.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintLabel.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\PaintLabel.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\PaintLabel.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Props\Paint\Paintbrush_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\OBS_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\OBS_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\OBS_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\OBS_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\OBS_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\OBS_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\OBS_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Albedo.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Albedo.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\Plywood_Albedo.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Albedo.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Albedo.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\Plywood_Albedo.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_MetallicOcculusionSmoothness.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_MetallicOcculusionSmoothness.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\Plywood_MetallicOcculusionSmoothness.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_MetallicOcculusionSmoothness.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_MetallicOcculusionSmoothness.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\Plywood_MetallicOcculusionSmoothness.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Normal.tif
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Normal.tif
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\Plywood_Normal.tif
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Normal.tif.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\ExampleAssets\Textures\Wood\Plywood_Normal.tif.meta
+      projectPath: Assets\Template\ExampleAssets\Textures\Wood\Plywood_Normal.tif.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Materials.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Materials.meta
+      projectPath: Assets\Template\Materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Materials\Skybox_Mat.mat
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Materials\Skybox_Mat.mat
+      projectPath: Assets\Template\Materials\Skybox_Mat.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Materials\Skybox_Mat.mat.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Materials\Skybox_Mat.mat.meta
+      projectPath: Assets\Template\Materials\Skybox_Mat.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets.meta
+      projectPath: Assets\Template\Presets.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\AudioCompressedInMemory.preset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\AudioCompressedInMemory.preset
+      projectPath: Assets\Template\Presets\AudioCompressedInMemory.preset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\AudioCompressedInMemory.preset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\AudioCompressedInMemory.preset.meta
+      projectPath: Assets\Template\Presets\AudioCompressedInMemory.preset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\AudioStreaming.preset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\AudioStreaming.preset
+      projectPath: Assets\Template\Presets\AudioStreaming.preset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\AudioStreaming.preset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\AudioStreaming.preset.meta
+      projectPath: Assets\Template\Presets\AudioStreaming.preset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\Defaults.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\Defaults.meta
+      projectPath: Assets\Template\Presets\Defaults.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\Defaults\AlbedoTexture_Default.preset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\Defaults\AlbedoTexture_Default.preset
+      projectPath: Assets\Template\Presets\Defaults\AlbedoTexture_Default.preset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\Defaults\AlbedoTexture_Default.preset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\Defaults\AlbedoTexture_Default.preset.meta
+      projectPath: Assets\Template\Presets\Defaults\AlbedoTexture_Default.preset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\Defaults\AudioDecompressOnLoad.preset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\Defaults\AudioDecompressOnLoad.preset
+      projectPath: Assets\Template\Presets\Defaults\AudioDecompressOnLoad.preset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\Defaults\AudioDecompressOnLoad.preset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\Defaults\AudioDecompressOnLoad.preset.meta
+      projectPath: Assets\Template\Presets\Defaults\AudioDecompressOnLoad.preset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\Defaults\DirectionalLight_Default.preset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\Defaults\DirectionalLight_Default.preset
+      projectPath: Assets\Template\Presets\Defaults\DirectionalLight_Default.preset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\Defaults\DirectionalLight_Default.preset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\Defaults\DirectionalLight_Default.preset.meta
+      projectPath: Assets\Template\Presets\Defaults\DirectionalLight_Default.preset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\NormalTexture.preset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\NormalTexture.preset
+      projectPath: Assets\Template\Presets\NormalTexture.preset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\NormalTexture.preset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\NormalTexture.preset.meta
+      projectPath: Assets\Template\Presets\NormalTexture.preset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\UtilityTexture.preset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\UtilityTexture.preset
+      projectPath: Assets\Template\Presets\UtilityTexture.preset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Presets\UtilityTexture.preset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Presets\UtilityTexture.preset.meta
+      projectPath: Assets\Template\Presets\UtilityTexture.preset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Readme.asset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Readme.asset
+      projectPath: Assets\Template\Readme.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Readme.asset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Readme.asset.meta
+      projectPath: Assets\Template\Readme.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scenes.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scenes.meta
+      projectPath: Assets\Template\Scenes.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scenes\SampleScene.unity
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scenes\SampleScene.unity
+      projectPath: Assets\Template\Scenes\SampleScene.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scenes\SampleScene.unity.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scenes\SampleScene.unity.meta
+      projectPath: Assets\Template\Scenes\SampleScene.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scenes\SampleSceneLightingSettings.lighting
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scenes\SampleSceneLightingSettings.lighting
+      projectPath: Assets\Template\Scenes\SampleSceneLightingSettings.lighting
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scenes\SampleSceneLightingSettings.lighting.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scenes\SampleSceneLightingSettings.lighting.meta
+      projectPath: Assets\Template\Scenes\SampleSceneLightingSettings.lighting.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scripts.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scripts.meta
+      projectPath: Assets\Template\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scripts\SimpleCameraController.cs
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scripts\SimpleCameraController.cs
+      projectPath: Assets\Template\Scripts\SimpleCameraController.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Scripts\SimpleCameraController.cs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Scripts\SimpleCameraController.cs.meta
+      projectPath: Assets\Template\Scripts\SimpleCameraController.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings.meta
+      projectPath: Assets\Template\Settings.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\ForwardRenderer.asset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\ForwardRenderer.asset
+      projectPath: Assets\Template\Settings\ForwardRenderer.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\ForwardRenderer.asset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\ForwardRenderer.asset.meta
+      projectPath: Assets\Template\Settings\ForwardRenderer.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\SampleSceneProfile.asset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\SampleSceneProfile.asset
+      projectPath: Assets\Template\Settings\SampleSceneProfile.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\SampleSceneProfile.asset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\SampleSceneProfile.asset.meta
+      projectPath: Assets\Template\Settings\SampleSceneProfile.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\UniversalRP-HighQuality.asset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\UniversalRP-HighQuality.asset
+      projectPath: Assets\Template\Settings\UniversalRP-HighQuality.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\UniversalRP-HighQuality.asset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\UniversalRP-HighQuality.asset.meta
+      projectPath: Assets\Template\Settings\UniversalRP-HighQuality.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\UniversalRP-LowQuality.asset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\UniversalRP-LowQuality.asset
+      projectPath: Assets\Template\Settings\UniversalRP-LowQuality.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\UniversalRP-LowQuality.asset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\UniversalRP-LowQuality.asset.meta
+      projectPath: Assets\Template\Settings\UniversalRP-LowQuality.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\UniversalRP-MediumQuality.asset
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\UniversalRP-MediumQuality.asset
+      projectPath: Assets\Template\Settings\UniversalRP-MediumQuality.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\Settings\UniversalRP-MediumQuality.asset.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\Settings\UniversalRP-MediumQuality.asset.meta
+      projectPath: Assets\Template\Settings\UniversalRP-MediumQuality.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo.meta
+      projectPath: Assets\Template\TutorialInfo.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Icons.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Icons.meta
+      projectPath: Assets\Template\TutorialInfo\Icons.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Icons\Help_Icon.png
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Icons\Help_Icon.png
+      projectPath: Assets\Template\TutorialInfo\Icons\Help_Icon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Icons\Help_Icon.png.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Icons\Help_Icon.png.meta
+      projectPath: Assets\Template\TutorialInfo\Icons\Help_Icon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Icons\UniversalIcon.png
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Icons\UniversalIcon.png
+      projectPath: Assets\Template\TutorialInfo\Icons\UniversalIcon.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Icons\UniversalIcon.png.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Icons\UniversalIcon.png.meta
+      projectPath: Assets\Template\TutorialInfo\Icons\UniversalIcon.png.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Layout.wlt
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Layout.wlt
+      projectPath: Assets\Template\TutorialInfo\Layout.wlt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Layout.wlt.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Layout.wlt.meta
+      projectPath: Assets\Template\TutorialInfo\Layout.wlt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Scripts.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Scripts.meta
+      projectPath: Assets\Template\TutorialInfo\Scripts.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Editor.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Editor.meta
+      projectPath: Assets\Template\TutorialInfo\Scripts\Editor.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Editor\ReadmeEditor.cs
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Editor\ReadmeEditor.cs
+      projectPath: Assets\Template\TutorialInfo\Scripts\Editor\ReadmeEditor.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Editor\ReadmeEditor.cs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Editor\ReadmeEditor.cs.meta
+      projectPath: Assets\Template\TutorialInfo\Scripts\Editor\ReadmeEditor.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Readme.cs
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Readme.cs
+      projectPath: Assets\Template\TutorialInfo\Scripts\Readme.cs
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Readme.cs.meta
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Template\TutorialInfo\Scripts\Readme.cs.meta
+      projectPath: Assets\Template\TutorialInfo\Scripts\Readme.cs.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: bed2dd0838966671176318a452707fe6f3e878bf
+    mergeA: 
+    mergeB: 
+    authorName: jalenslutzky2001
+    authorEmail: 78006259+jalenslutzky2001@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2021-09-28T14:37:24.000-04:00
+    commitTimeString: 2021-09-28T14:37:24.000-04:00
+    changes:
+    - path: .gitignore
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\.gitignore
+      projectPath: ..\.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: LICENSE
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\LICENSE
+      projectPath: ..\LICENSE
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
