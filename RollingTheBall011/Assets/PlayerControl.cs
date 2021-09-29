@@ -7,7 +7,7 @@ using TMPro;
 public class PlayerControl : MonoBehaviour
 
 {
-    public float speed = 2;
+    public float speed = 0;
     public TextMeshProUGUI countText;
     public GameObject winTextObject;
 
@@ -39,16 +39,12 @@ public class PlayerControl : MonoBehaviour
 
     }
 
-    void SetCountText()
-    {
-        countText.text = "Count: " + count.ToString();
-    }
 
     void FixedUpdate()
     {
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
 
-        rb.addforce(movement * speed);
+        rb.AddForce(movement * speed);
     }
 
     private void OnTriggerEnter(Collider other)
@@ -65,13 +61,6 @@ public class PlayerControl : MonoBehaviour
        
     }
 
-    void OnMove(InputValue value)
-    {
-        Vector2 v = value.Get<Vector2>();
-
-        movementX = v.x;
-        movementY = v.y;
-    }
 
     void SetCountText()
     {
