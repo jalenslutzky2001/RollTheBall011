@@ -13,26 +13,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-09-28T20:52:34.391-04:00
-  initializedAtString: 2021-09-28T20:52:31.031-04:00
+  lastUpdatedAtString: 2021-10-04T22:52:55.266-04:00
+  initializedAtString: 2021-10-04T22:52:53.380-04:00
   entries:
-  - path: RollingTheBall011\Assets\Materials\New Material.mat
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Materials\New
-      Material.mat
-    projectPath: Assets\Materials\New Material.mat
+  - path: RollingTheBall011\Assets\Input\InputActions.inputactions
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Input\InputActions.inputactions
+    projectPath: Assets\Input\InputActions.inputactions
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Assets\Materials\New Material.mat.meta
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Materials\New
-      Material.mat.meta
-    projectPath: Assets\Materials\New Material.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: RollingTheBall011\Assets\Minigame.unity
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\Minigame.unity
     projectPath: Assets\Minigame.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RollingTheBall011\Assets\PlayerControl.cs
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\PlayerControl.cs
+    projectPath: Assets\PlayerControl.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -48,132 +46,60 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RollingTheBall011\Library\Artifacts\0a\0abea4755663d1b1dd3eb732c557a9ee
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\0a\0abea4755663d1b1dd3eb732c557a9ee
-    projectPath: Library\Artifacts\0a\0abea4755663d1b1dd3eb732c557a9ee
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\0b\0be80ea9bab331310a32670bd35d9f8c
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\0b\0be80ea9bab331310a32670bd35d9f8c
-    projectPath: Library\Artifacts\0b\0be80ea9bab331310a32670bd35d9f8c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\16\1690ce1ea55e894de7e63ab53600e868
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\16\1690ce1ea55e894de7e63ab53600e868
-    projectPath: Library\Artifacts\16\1690ce1ea55e894de7e63ab53600e868
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
-    projectPath: Library\Artifacts\1f\1fe54318fe85aeab159f1a8b425c1aa5
+  - path: RollingTheBall011\Library\Artifacts\0a\0a6d770442f65d092a0a113b93220235
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\0a\0a6d770442f65d092a0a113b93220235
+    projectPath: Library\Artifacts\0a\0a6d770442f65d092a0a113b93220235
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RollingTheBall011\Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
-    projectPath: Library\Artifacts\28\28d0c7c1597b4cd9ed79087be1cba5fd
+  - path: RollingTheBall011\Library\Artifacts\20\20637632cf2d4d52474a88fb51f4c8df
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\20\20637632cf2d4d52474a88fb51f4c8df
+    projectPath: Library\Artifacts\20\20637632cf2d4d52474a88fb51f4c8df
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\35\35cfa32baef600a1e55378590ea4d6fa
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\35\35cfa32baef600a1e55378590ea4d6fa
-    projectPath: Library\Artifacts\35\35cfa32baef600a1e55378590ea4d6fa
+  - path: RollingTheBall011\Library\Artifacts\24\245589ede3336e1cd61baedfb6da0e1a
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\24\245589ede3336e1cd61baedfb6da0e1a
+    projectPath: Library\Artifacts\24\245589ede3336e1cd61baedfb6da0e1a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RollingTheBall011\Library\Artifacts\32\327d235bf112ae1e4ba8fc1f46f728fc
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\32\327d235bf112ae1e4ba8fc1f46f728fc
+    projectPath: Library\Artifacts\32\327d235bf112ae1e4ba8fc1f46f728fc
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: RollingTheBall011\Library\Artifacts\36\36e7b83a7dc2fb98d6e3718e59d5df6c
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\36\36e7b83a7dc2fb98d6e3718e59d5df6c
-    projectPath: Library\Artifacts\36\36e7b83a7dc2fb98d6e3718e59d5df6c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\44\44f97f455862d1e7c588b286e8c76d87
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\44\44f97f455862d1e7c588b286e8c76d87
-    projectPath: Library\Artifacts\44\44f97f455862d1e7c588b286e8c76d87
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\47\47a6675784ef4fdb50fd3c08655c4db0
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\47\47a6675784ef4fdb50fd3c08655c4db0
-    projectPath: Library\Artifacts\47\47a6675784ef4fdb50fd3c08655c4db0
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\4e\4ea613383dbdbaa12bc2e4aa95c8299c
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\4e\4ea613383dbdbaa12bc2e4aa95c8299c
-    projectPath: Library\Artifacts\4e\4ea613383dbdbaa12bc2e4aa95c8299c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\63\63b2e99f2b65c3e5ea741bdf88fcba11
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\63\63b2e99f2b65c3e5ea741bdf88fcba11
-    projectPath: Library\Artifacts\63\63b2e99f2b65c3e5ea741bdf88fcba11
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\69\693cda5f8c20875a0192414dbad1349e
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\69\693cda5f8c20875a0192414dbad1349e
-    projectPath: Library\Artifacts\69\693cda5f8c20875a0192414dbad1349e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\73\73e4093d90377618d47e046662eb2aef
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\73\73e4093d90377618d47e046662eb2aef
-    projectPath: Library\Artifacts\73\73e4093d90377618d47e046662eb2aef
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\92\92768f8ea391c8b2a10c0a49f2c71dff
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\92\92768f8ea391c8b2a10c0a49f2c71dff
-    projectPath: Library\Artifacts\92\92768f8ea391c8b2a10c0a49f2c71dff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\96\96e2531a339b1f60f127f3d6b15fe105
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\96\96e2531a339b1f60f127f3d6b15fe105
-    projectPath: Library\Artifacts\96\96e2531a339b1f60f127f3d6b15fe105
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\99\9995ec14588e743e02d12a98125ee09f
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\99\9995ec14588e743e02d12a98125ee09f
-    projectPath: Library\Artifacts\99\9995ec14588e743e02d12a98125ee09f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\a2\a2bdae227380610887ca9f562ae3ad00
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\a2\a2bdae227380610887ca9f562ae3ad00
-    projectPath: Library\Artifacts\a2\a2bdae227380610887ca9f562ae3ad00
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\a2\a2c5cae872db43ae62ec2799caad675a
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\a2\a2c5cae872db43ae62ec2799caad675a
-    projectPath: Library\Artifacts\a2\a2c5cae872db43ae62ec2799caad675a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\a9\a997bead8fc0fd80fa56168870413111
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\a9\a997bead8fc0fd80fa56168870413111
-    projectPath: Library\Artifacts\a9\a997bead8fc0fd80fa56168870413111
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\bc\bcdac977f811e6afc6411085d4ddeadd
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\bc\bcdac977f811e6afc6411085d4ddeadd
-    projectPath: Library\Artifacts\bc\bcdac977f811e6afc6411085d4ddeadd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
-    projectPath: Library\Artifacts\bd\bd3b3e5efd1936c5316dab4dc453bbb0
+  - path: RollingTheBall011\Library\Artifacts\5a\5a3d45a71c545c5d3d3d044f90a36aa3
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\5a\5a3d45a71c545c5d3d3d044f90a36aa3
+    projectPath: Library\Artifacts\5a\5a3d45a71c545c5d3d3d044f90a36aa3
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
+  - path: RollingTheBall011\Library\Artifacts\a7\a73d63eca4784dbdd40a3649de3eb58e
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\a7\a73d63eca4784dbdd40a3649de3eb58e
+    projectPath: Library\Artifacts\a7\a73d63eca4784dbdd40a3649de3eb58e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Library\Artifacts\d4\d41b908899847c666c96e24e3f648ed1
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\d4\d41b908899847c666c96e24e3f648ed1
+    projectPath: Library\Artifacts\d4\d41b908899847c666c96e24e3f648ed1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: RollingTheBall011\Library\Artifacts\db\db970f3ef94af0d0eefd1f428cc357e7
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\db\db970f3ef94af0d0eefd1f428cc357e7
+    projectPath: Library\Artifacts\db\db970f3ef94af0d0eefd1f428cc357e7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Library\Artifacts\ea\eac96cdc8516430d5fc2337740961dcf
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\ea\eac96cdc8516430d5fc2337740961dcf
+    projectPath: Library\Artifacts\ea\eac96cdc8516430d5fc2337740961dcf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: RollingTheBall011\Library\EditorInstance.json
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -196,8 +122,8 @@ MonoBehaviour:
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\gfu\cache\gitstatusentries.yaml
     projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: RollingTheBall011\Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
@@ -207,12 +133,6 @@ MonoBehaviour:
   - path: RollingTheBall011\Library\gfu\cache\repoinfo.yaml
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\gfu\cache\repoinfo.yaml
     projectPath: Library\gfu\cache\repoinfo.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RollingTheBall011\Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -227,88 +147,28 @@ MonoBehaviour:
     projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
-  - path: RollingTheBall011\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: RollingTheBall011\Library\ScriptAssemblies\BuiltinAssemblies.stamp
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ScriptAssemblies\BuiltinAssemblies.stamp
     projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RollingTheBall011\Library\ShaderCache\0\052df87452ba808d653b5b20ff88342a.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\0\052df87452ba808d653b5b20ff88342a.bin
-    projectPath: Library\ShaderCache\0\052df87452ba808d653b5b20ff88342a.bin
-    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\2\2c438a0a05ff26ff4c687f7126e2507a.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\2\2c438a0a05ff26ff4c687f7126e2507a.bin
-    projectPath: Library\ShaderCache\2\2c438a0a05ff26ff4c687f7126e2507a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\4\41cd8f9a054b4d74600204c5eef781b3.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\4\41cd8f9a054b4d74600204c5eef781b3.bin
-    projectPath: Library\ShaderCache\4\41cd8f9a054b4d74600204c5eef781b3.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\4\49f210d7309c380c557b5c5fa60cc449.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\4\49f210d7309c380c557b5c5fa60cc449.bin
-    projectPath: Library\ShaderCache\4\49f210d7309c380c557b5c5fa60cc449.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\5\5ec5fba296a75a8b597ae76b7fc974a1.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\5\5ec5fba296a75a8b597ae76b7fc974a1.bin
-    projectPath: Library\ShaderCache\5\5ec5fba296a75a8b597ae76b7fc974a1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\6\68ab68523ceb8b5bacbbfcaaf98a032a.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\6\68ab68523ceb8b5bacbbfcaaf98a032a.bin
-    projectPath: Library\ShaderCache\6\68ab68523ceb8b5bacbbfcaaf98a032a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\8\8c193ffec1efbe2d826c2e79f053bfb2.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\8\8c193ffec1efbe2d826c2e79f053bfb2.bin
-    projectPath: Library\ShaderCache\8\8c193ffec1efbe2d826c2e79f053bfb2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\9\9658929f62d6b41ba1b8866bf5368c14.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\9\9658929f62d6b41ba1b8866bf5368c14.bin
-    projectPath: Library\ShaderCache\9\9658929f62d6b41ba1b8866bf5368c14.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\e\e2095b715250e38e055b13169ac0627f.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\e\e2095b715250e38e055b13169ac0627f.bin
-    projectPath: Library\ShaderCache\e\e2095b715250e38e055b13169ac0627f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\e\e5c940214b61c257fa03301b155fdc68.bin
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\e\e5c940214b61c257fa03301b155fdc68.bin
-    projectPath: Library\ShaderCache\e\e5c940214b61c257fa03301b155fdc68.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Library\ShaderCache\EditorEncounteredVariants
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ShaderCache\EditorEncounteredVariants
-    projectPath: Library\ShaderCache\EditorEncounteredVariants
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: RollingTheBall011\Library\SourceAssetDB
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RollingTheBall011\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RollingTheBall011\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
+    projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -316,587 +176,401 @@ MonoBehaviour:
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\ApiUpdaterCheck.txt
     projectPath: Logs\ApiUpdaterCheck.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: RollingTheBall011\Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\Packages-Update.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\Packages-Update.log
-    projectPath: Logs\Packages-Update.log
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RollingTheBall011\Logs\AssetImportWorker2-prev.log
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\AssetImportWorker2-prev.log
+    projectPath: Logs\AssetImportWorker2-prev.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe0.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+  - path: RollingTheBall011\Temp\Assembly-CSharp.dll.hash
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Packages\manifest.json
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Packages\manifest.json
-    projectPath: Packages\manifest.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Packages\packages-lock.json
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Packages\packages-lock.json
-    projectPath: Packages\packages-lock.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\AudioManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\AudioManager.asset
-    projectPath: ProjectSettings\AudioManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\ClusterInputManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\ClusterInputManager.asset
-    projectPath: ProjectSettings\ClusterInputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\DynamicsManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\DynamicsManager.asset
-    projectPath: ProjectSettings\DynamicsManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\EditorBuildSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\EditorBuildSettings.asset
-    projectPath: ProjectSettings\EditorBuildSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\EditorSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\EditorSettings.asset
-    projectPath: ProjectSettings\EditorSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\GraphicsSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\GraphicsSettings.asset
-    projectPath: ProjectSettings\GraphicsSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\InputManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\InputManager.asset
-    projectPath: ProjectSettings\InputManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\NavMeshAreas.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\NavMeshAreas.asset
-    projectPath: ProjectSettings\NavMeshAreas.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\PackageManagerSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\PackageManagerSettings.asset
-    projectPath: ProjectSettings\PackageManagerSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\Physics2DSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\PresetManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\PresetManager.asset
-    projectPath: ProjectSettings\PresetManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\ProjectSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\SceneTemplateSettings.json
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\SceneTemplateSettings.json
-    projectPath: ProjectSettings\SceneTemplateSettings.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\TagManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\TimeManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\URPProjectSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\URPProjectSettings.asset
-    projectPath: ProjectSettings\URPProjectSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\VersionControlSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\VersionControlSettings.asset
-    projectPath: ProjectSettings\VersionControlSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\VFXManager.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\VFXManager.asset
-    projectPath: ProjectSettings\VFXManager.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\ProjectSettings\XRSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\XRSettings.asset
-    projectPath: ProjectSettings\XRSettings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\ApiUpdater_CheckMovedFrom6ed2e20c2969b9b4a9f44b2b77e2d99b
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\ApiUpdater_CheckMovedFrom6ed2e20c2969b9b4a9f44b2b77e2d99b
-    projectPath: Temp\ApiUpdater_CheckMovedFrom6ed2e20c2969b9b4a9f44b2b77e2d99b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: RollingTheBall011\Temp\CompilationLog.txt
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.CollabProxy.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.CollabProxy.Editor.dll.hash
-    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.InputSystem.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.InputSystem.dll.hash
-    projectPath: Temp\Unity.InputSystem.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.Mathematics.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.Mathematics.dll.hash
-    projectPath: Temp\Unity.Mathematics.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.Mathematics.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.Mathematics.Editor.dll.hash
-    projectPath: Temp\Unity.Mathematics.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.PlasticSCM.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.PlasticSCM.Editor.dll.hash
-    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipeline.Universal.ShaderLibrary.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipeline.Universal.ShaderLibrary.dll.hash
-    projectPath: Temp\Unity.RenderPipeline.Universal.ShaderLibrary.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipelines.Core.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipelines.Core.Editor.dll.hash
-    projectPath: Temp\Unity.RenderPipelines.Core.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipelines.Core.Runtime.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipelines.Core.Runtime.dll.hash
-    projectPath: Temp\Unity.RenderPipelines.Core.Runtime.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipelines.Core.ShaderLibrary.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipelines.Core.ShaderLibrary.dll.hash
-    projectPath: Temp\Unity.RenderPipelines.Core.ShaderLibrary.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.hash
-    projectPath: Temp\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipelines.Universal.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipelines.Universal.Editor.dll.hash
-    projectPath: Temp\Unity.RenderPipelines.Universal.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipelines.Universal.Runtime.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipelines.Universal.Runtime.dll.hash
-    projectPath: Temp\Unity.RenderPipelines.Universal.Runtime.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.RenderPipelines.Universal.Shaders.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.RenderPipelines.Universal.Shaders.dll.hash
-    projectPath: Temp\Unity.RenderPipelines.Universal.Shaders.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.Rider.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.Rider.Editor.dll.hash
-    projectPath: Temp\Unity.Rider.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.Searcher.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.Searcher.Editor.dll.hash
-    projectPath: Temp\Unity.Searcher.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.ShaderGraph.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.ShaderGraph.Editor.dll.hash
-    projectPath: Temp\Unity.ShaderGraph.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.ShaderGraph.Utilities.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.ShaderGraph.Utilities.dll.hash
-    projectPath: Temp\Unity.ShaderGraph.Utilities.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.TextMeshPro.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.TextMeshPro.dll.hash
-    projectPath: Temp\Unity.TextMeshPro.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.TextMeshPro.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.TextMeshPro.Editor.dll.hash
-    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.Timeline.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.Timeline.dll.hash
-    projectPath: Temp\Unity.Timeline.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.Timeline.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.Timeline.Editor.dll.hash
-    projectPath: Temp\Unity.Timeline.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.VisualStudio.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.VisualStudio.Editor.dll.hash
-    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\Unity.VSCode.Editor.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\Unity.VSCode.Editor.dll.hash
-    projectPath: Temp\Unity.VSCode.Editor.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityEditor.TestRunner.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityEditor.TestRunner.dll.hash
-    projectPath: Temp\UnityEditor.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityEditor.UI.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityEditor.UI.dll.hash
-    projectPath: Temp\UnityEditor.UI.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityEngine.TestRunner.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityEngine.TestRunner.dll.hash
-    projectPath: Temp\UnityEngine.TestRunner.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityEngine.UI.dll.hash
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityEngine.UI.dll.hash
-    projectPath: Temp\UnityEngine.UI.dll.hash
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: RollingTheBall011\Temp\UnityLockfile
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-04aa27e39bdca2e47bea6a4fd9de84b8
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-04aa27e39bdca2e47bea6a4fd9de84b8
-    projectPath: Temp\UnityTempFile-04aa27e39bdca2e47bea6a4fd9de84b8
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: RollingTheBall011\Temp\UnityTempFile-04a35944e73eb5344a2c63da53c5631f
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-04a35944e73eb5344a2c63da53c5631f
+    projectPath: Temp\UnityTempFile-04a35944e73eb5344a2c63da53c5631f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-0838f0302accc7a4d94b04dc926149c9
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-0838f0302accc7a4d94b04dc926149c9
+    projectPath: Temp\UnityTempFile-0838f0302accc7a4d94b04dc926149c9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-09f6e2132670f434fbd27fbd199d1b0c
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-09f6e2132670f434fbd27fbd199d1b0c
-    projectPath: Temp\UnityTempFile-09f6e2132670f434fbd27fbd199d1b0c
+  - path: RollingTheBall011\Temp\UnityTempFile-1527293f0fb889145824664c31dda6f9
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-1527293f0fb889145824664c31dda6f9
+    projectPath: Temp\UnityTempFile-1527293f0fb889145824664c31dda6f9
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-0aef91106005caf41a8ab087fa653893
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-0aef91106005caf41a8ab087fa653893
-    projectPath: Temp\UnityTempFile-0aef91106005caf41a8ab087fa653893
+  - path: RollingTheBall011\Temp\UnityTempFile-162933a0ea41cf840a8770150aeef62b
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-162933a0ea41cf840a8770150aeef62b
+    projectPath: Temp\UnityTempFile-162933a0ea41cf840a8770150aeef62b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-17e688e095fd17545a3f24955c1aaffc
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-17e688e095fd17545a3f24955c1aaffc
+    projectPath: Temp\UnityTempFile-17e688e095fd17545a3f24955c1aaffc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-21b638811fcfe704aa3407f3ae3ce4dd
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-21b638811fcfe704aa3407f3ae3ce4dd
-    projectPath: Temp\UnityTempFile-21b638811fcfe704aa3407f3ae3ce4dd
+  - path: RollingTheBall011\Temp\UnityTempFile-19de516d96bda7f4ab016628a4b84202
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-19de516d96bda7f4ab016628a4b84202
+    projectPath: Temp\UnityTempFile-19de516d96bda7f4ab016628a4b84202
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-1cda63d03778161408f59467d52f9fc7
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-1cda63d03778161408f59467d52f9fc7
+    projectPath: Temp\UnityTempFile-1cda63d03778161408f59467d52f9fc7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-1ea16f440accf46418a2a0f9a279d1a9
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-1ea16f440accf46418a2a0f9a279d1a9
+    projectPath: Temp\UnityTempFile-1ea16f440accf46418a2a0f9a279d1a9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-26a2e9c1c6453934fb38e2d61e965fe7
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-26a2e9c1c6453934fb38e2d61e965fe7
+    projectPath: Temp\UnityTempFile-26a2e9c1c6453934fb38e2d61e965fe7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-2701681a5b6a5f4499a290ff0827bccf
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-2701681a5b6a5f4499a290ff0827bccf
+    projectPath: Temp\UnityTempFile-2701681a5b6a5f4499a290ff0827bccf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-2daff326d7f45ec428e73ffa9bc8bbdc
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-2daff326d7f45ec428e73ffa9bc8bbdc
-    projectPath: Temp\UnityTempFile-2daff326d7f45ec428e73ffa9bc8bbdc
+  - path: RollingTheBall011\Temp\UnityTempFile-28ebf96d7d6ee0a489435f8fa339f9e1
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-28ebf96d7d6ee0a489435f8fa339f9e1
+    projectPath: Temp\UnityTempFile-28ebf96d7d6ee0a489435f8fa339f9e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-2c5c9f9a11c4a1f409d7804685b890ca
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-2c5c9f9a11c4a1f409d7804685b890ca
+    projectPath: Temp\UnityTempFile-2c5c9f9a11c4a1f409d7804685b890ca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-3268623829b1ba04d811097f8070e073
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-3268623829b1ba04d811097f8070e073
-    projectPath: Temp\UnityTempFile-3268623829b1ba04d811097f8070e073
+  - path: RollingTheBall011\Temp\UnityTempFile-2dc7e8b88ecaec644b2942833d694049
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-2dc7e8b88ecaec644b2942833d694049
+    projectPath: Temp\UnityTempFile-2dc7e8b88ecaec644b2942833d694049
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-3583602708746d84aa4322f1c8eede9c
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-3583602708746d84aa4322f1c8eede9c
-    projectPath: Temp\UnityTempFile-3583602708746d84aa4322f1c8eede9c
+  - path: RollingTheBall011\Temp\UnityTempFile-30f4e194acaf7ec44976d51bb06410b7
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-30f4e194acaf7ec44976d51bb06410b7
+    projectPath: Temp\UnityTempFile-30f4e194acaf7ec44976d51bb06410b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-31753e3f575a98741a513d8a1821f425
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-31753e3f575a98741a513d8a1821f425
+    projectPath: Temp\UnityTempFile-31753e3f575a98741a513d8a1821f425
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-376c04d6a4603994385aed30d8b907c6
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-376c04d6a4603994385aed30d8b907c6
-    projectPath: Temp\UnityTempFile-376c04d6a4603994385aed30d8b907c6
+  - path: RollingTheBall011\Temp\UnityTempFile-3f2725de1b734cf418fb10cbb965d116
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-3f2725de1b734cf418fb10cbb965d116
+    projectPath: Temp\UnityTempFile-3f2725de1b734cf418fb10cbb965d116
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-43567c53e8bd3c143940f5c22a3451b8
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-43567c53e8bd3c143940f5c22a3451b8
+    projectPath: Temp\UnityTempFile-43567c53e8bd3c143940f5c22a3451b8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-453e4d22406e9c04889b7f5df3420ae5
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-453e4d22406e9c04889b7f5df3420ae5
+    projectPath: Temp\UnityTempFile-453e4d22406e9c04889b7f5df3420ae5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-46291071d27ba43449f4476fab49009a
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-46291071d27ba43449f4476fab49009a
+    projectPath: Temp\UnityTempFile-46291071d27ba43449f4476fab49009a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-4dcf799c48ba017418078a238e970eab
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-4dcf799c48ba017418078a238e970eab
+    projectPath: Temp\UnityTempFile-4dcf799c48ba017418078a238e970eab
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-383d5b9b1ae23dc43a864a00bbebbb74
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-383d5b9b1ae23dc43a864a00bbebbb74
-    projectPath: Temp\UnityTempFile-383d5b9b1ae23dc43a864a00bbebbb74
+  - path: RollingTheBall011\Temp\UnityTempFile-541f3e907e945504f8d2eb2022d3290d
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-541f3e907e945504f8d2eb2022d3290d
+    projectPath: Temp\UnityTempFile-541f3e907e945504f8d2eb2022d3290d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-3eb1ada9c00ad6741945c6bce68cefbd
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-3eb1ada9c00ad6741945c6bce68cefbd
-    projectPath: Temp\UnityTempFile-3eb1ada9c00ad6741945c6bce68cefbd
+  - path: RollingTheBall011\Temp\UnityTempFile-5689608b11d998045b3efbe032ba3858
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-5689608b11d998045b3efbe032ba3858
+    projectPath: Temp\UnityTempFile-5689608b11d998045b3efbe032ba3858
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-518a6fd5d763d954bb18c3add209cf19
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-518a6fd5d763d954bb18c3add209cf19
-    projectPath: Temp\UnityTempFile-518a6fd5d763d954bb18c3add209cf19
+  - path: RollingTheBall011\Temp\UnityTempFile-5a367481dcc9c4643aee6aa68c3109c0
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-5a367481dcc9c4643aee6aa68c3109c0
+    projectPath: Temp\UnityTempFile-5a367481dcc9c4643aee6aa68c3109c0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-5b84fbcaaf22d994a82a6e456040f345
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-5b84fbcaaf22d994a82a6e456040f345
+    projectPath: Temp\UnityTempFile-5b84fbcaaf22d994a82a6e456040f345
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-5d7c092391df2a541a92a12e4b98325f
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-5d7c092391df2a541a92a12e4b98325f
-    projectPath: Temp\UnityTempFile-5d7c092391df2a541a92a12e4b98325f
+  - path: RollingTheBall011\Temp\UnityTempFile-5f8f8751f534bee429095c3b7f7acbb1
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-5f8f8751f534bee429095c3b7f7acbb1
+    projectPath: Temp\UnityTempFile-5f8f8751f534bee429095c3b7f7acbb1
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-64d02ed297c5ed14eb1da221e8666c98
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-64d02ed297c5ed14eb1da221e8666c98
-    projectPath: Temp\UnityTempFile-64d02ed297c5ed14eb1da221e8666c98
+  - path: RollingTheBall011\Temp\UnityTempFile-61868b4d9e3c69c449062b8aab186406
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-61868b4d9e3c69c449062b8aab186406
+    projectPath: Temp\UnityTempFile-61868b4d9e3c69c449062b8aab186406
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-6890473d1ace4fa4b92173bdcdf404a9
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-6890473d1ace4fa4b92173bdcdf404a9
-    projectPath: Temp\UnityTempFile-6890473d1ace4fa4b92173bdcdf404a9
+  - path: RollingTheBall011\Temp\UnityTempFile-642b3b9672a209d40a55052fefec9732
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-642b3b9672a209d40a55052fefec9732
+    projectPath: Temp\UnityTempFile-642b3b9672a209d40a55052fefec9732
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-6aad18224f4f7704fb5ad5f6a13ee5a2
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-6aad18224f4f7704fb5ad5f6a13ee5a2
-    projectPath: Temp\UnityTempFile-6aad18224f4f7704fb5ad5f6a13ee5a2
+  - path: RollingTheBall011\Temp\UnityTempFile-6c929ca3285d73c45bc0dd312067901b
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-6c929ca3285d73c45bc0dd312067901b
+    projectPath: Temp\UnityTempFile-6c929ca3285d73c45bc0dd312067901b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-6db256ce90d973446a6029f75c71b1fb
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-6db256ce90d973446a6029f75c71b1fb
+    projectPath: Temp\UnityTempFile-6db256ce90d973446a6029f75c71b1fb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-7658e593ed399684fa8d1eed860432cb
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-7658e593ed399684fa8d1eed860432cb
-    projectPath: Temp\UnityTempFile-7658e593ed399684fa8d1eed860432cb
+  - path: RollingTheBall011\Temp\UnityTempFile-716aae67fc201b840b7b3ca645541b7f
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-716aae67fc201b840b7b3ca645541b7f
+    projectPath: Temp\UnityTempFile-716aae67fc201b840b7b3ca645541b7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-7197fe10bd0eaea4083dfe787ae74b14
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-7197fe10bd0eaea4083dfe787ae74b14
+    projectPath: Temp\UnityTempFile-7197fe10bd0eaea4083dfe787ae74b14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-7632c98a2251b574491b035ff9e43a5d
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-7632c98a2251b574491b035ff9e43a5d
+    projectPath: Temp\UnityTempFile-7632c98a2251b574491b035ff9e43a5d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-7cf6f84797eb5e349953574819fccb0c
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-7cf6f84797eb5e349953574819fccb0c
+    projectPath: Temp\UnityTempFile-7cf6f84797eb5e349953574819fccb0c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-8d3446f5d21645d428349b0750aa4818
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-8d3446f5d21645d428349b0750aa4818
+    projectPath: Temp\UnityTempFile-8d3446f5d21645d428349b0750aa4818
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-8125e048633f93f45bf89cfdff9b2602
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-8125e048633f93f45bf89cfdff9b2602
-    projectPath: Temp\UnityTempFile-8125e048633f93f45bf89cfdff9b2602
+  - path: RollingTheBall011\Temp\UnityTempFile-8ec7b444d96954f4abe555c94d59dc7f
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-8ec7b444d96954f4abe555c94d59dc7f
+    projectPath: Temp\UnityTempFile-8ec7b444d96954f4abe555c94d59dc7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-89faf04d2b0e48b4b9ed63b331a4d797
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-89faf04d2b0e48b4b9ed63b331a4d797
-    projectPath: Temp\UnityTempFile-89faf04d2b0e48b4b9ed63b331a4d797
+  - path: RollingTheBall011\Temp\UnityTempFile-99e899f5eb0e6bd42832650f652ab661
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-99e899f5eb0e6bd42832650f652ab661
+    projectPath: Temp\UnityTempFile-99e899f5eb0e6bd42832650f652ab661
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-9c0b44c12c6569e48bf84f9d39474340
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-9c0b44c12c6569e48bf84f9d39474340
+    projectPath: Temp\UnityTempFile-9c0b44c12c6569e48bf84f9d39474340
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-8b2fcc7fcade5d8489615adf5db8af10
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-8b2fcc7fcade5d8489615adf5db8af10
-    projectPath: Temp\UnityTempFile-8b2fcc7fcade5d8489615adf5db8af10
+  - path: RollingTheBall011\Temp\UnityTempFile-9c2305a5d106fdd4297f4aae3b7ee4d5
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-9c2305a5d106fdd4297f4aae3b7ee4d5
+    projectPath: Temp\UnityTempFile-9c2305a5d106fdd4297f4aae3b7ee4d5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-9f912c3a90da92a46966d91e2a0fe2dd
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-9f912c3a90da92a46966d91e2a0fe2dd
+    projectPath: Temp\UnityTempFile-9f912c3a90da92a46966d91e2a0fe2dd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-8c32e92d6e187c54a91d0bafacb1c53b
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-8c32e92d6e187c54a91d0bafacb1c53b
-    projectPath: Temp\UnityTempFile-8c32e92d6e187c54a91d0bafacb1c53b
+  - path: RollingTheBall011\Temp\UnityTempFile-9fb05a5d9cf5de74ebd96aa77c24f0fd
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-9fb05a5d9cf5de74ebd96aa77c24f0fd
+    projectPath: Temp\UnityTempFile-9fb05a5d9cf5de74ebd96aa77c24f0fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-a51af214b71755c48ac20f1ba33794bb
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-a51af214b71755c48ac20f1ba33794bb
+    projectPath: Temp\UnityTempFile-a51af214b71755c48ac20f1ba33794bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-a5b6ca08026096542b111b36725e5277
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-a5b6ca08026096542b111b36725e5277
+    projectPath: Temp\UnityTempFile-a5b6ca08026096542b111b36725e5277
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-8f32154b25e495949b69baafec71174d
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-8f32154b25e495949b69baafec71174d
-    projectPath: Temp\UnityTempFile-8f32154b25e495949b69baafec71174d
+  - path: RollingTheBall011\Temp\UnityTempFile-a9d37c83b4cd4504aba43aecb25875b4
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-a9d37c83b4cd4504aba43aecb25875b4
+    projectPath: Temp\UnityTempFile-a9d37c83b4cd4504aba43aecb25875b4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-ac6b9a668e415174bbbc0ea22333064b
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-ac6b9a668e415174bbbc0ea22333064b
+    projectPath: Temp\UnityTempFile-ac6b9a668e415174bbbc0ea22333064b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-adda2b644086fb3459fcc8482573692b
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-adda2b644086fb3459fcc8482573692b
+    projectPath: Temp\UnityTempFile-adda2b644086fb3459fcc8482573692b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-b003ba9553730394f95b6fe0d851159b
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-b003ba9553730394f95b6fe0d851159b
+    projectPath: Temp\UnityTempFile-b003ba9553730394f95b6fe0d851159b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-ba0f9c2b73f6ed44fadfc76a8c9a5a00
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-ba0f9c2b73f6ed44fadfc76a8c9a5a00
+    projectPath: Temp\UnityTempFile-ba0f9c2b73f6ed44fadfc76a8c9a5a00
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-972f81cd7d155a647b548cfd3fa39987
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-972f81cd7d155a647b548cfd3fa39987
-    projectPath: Temp\UnityTempFile-972f81cd7d155a647b548cfd3fa39987
+  - path: RollingTheBall011\Temp\UnityTempFile-c79054891f3139d46bee2d7321c4dadd
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-c79054891f3139d46bee2d7321c4dadd
+    projectPath: Temp\UnityTempFile-c79054891f3139d46bee2d7321c4dadd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-9a9bda4a03b3c1144adc2b2065412ec8
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-9a9bda4a03b3c1144adc2b2065412ec8
-    projectPath: Temp\UnityTempFile-9a9bda4a03b3c1144adc2b2065412ec8
+  - path: RollingTheBall011\Temp\UnityTempFile-ca1cf0dbb33e7ca469fa07ab824f7e12
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-ca1cf0dbb33e7ca469fa07ab824f7e12
+    projectPath: Temp\UnityTempFile-ca1cf0dbb33e7ca469fa07ab824f7e12
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-ccc66283866321c40b4f5f0cffb9b1dd
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-ccc66283866321c40b4f5f0cffb9b1dd
+    projectPath: Temp\UnityTempFile-ccc66283866321c40b4f5f0cffb9b1dd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-b0124b64a7e729b4094089e731a53cae
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-b0124b64a7e729b4094089e731a53cae
-    projectPath: Temp\UnityTempFile-b0124b64a7e729b4094089e731a53cae
+  - path: RollingTheBall011\Temp\UnityTempFile-ce50e4c0cc8a62248be04e28573f4509
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-ce50e4c0cc8a62248be04e28573f4509
+    projectPath: Temp\UnityTempFile-ce50e4c0cc8a62248be04e28573f4509
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-cf46ed66f28bd3f41a5b76dacb0baa6f
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-cf46ed66f28bd3f41a5b76dacb0baa6f
+    projectPath: Temp\UnityTempFile-cf46ed66f28bd3f41a5b76dacb0baa6f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-b0fe43cd989b4f841bada24a8fe70f31
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-b0fe43cd989b4f841bada24a8fe70f31
-    projectPath: Temp\UnityTempFile-b0fe43cd989b4f841bada24a8fe70f31
+  - path: RollingTheBall011\Temp\UnityTempFile-d093bcfe7332ff745a92227aab1f7930
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-d093bcfe7332ff745a92227aab1f7930
+    projectPath: Temp\UnityTempFile-d093bcfe7332ff745a92227aab1f7930
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-d1917e16f1f31084ca6303fff45b2cc1
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-d1917e16f1f31084ca6303fff45b2cc1
-    projectPath: Temp\UnityTempFile-d1917e16f1f31084ca6303fff45b2cc1
+  - path: RollingTheBall011\Temp\UnityTempFile-d9372f1f37c23534c8e398309c2556fc
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-d9372f1f37c23534c8e398309c2556fc
+    projectPath: Temp\UnityTempFile-d9372f1f37c23534c8e398309c2556fc
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-d39249d96765f624e832009cd83f0b5f
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-d39249d96765f624e832009cd83f0b5f
-    projectPath: Temp\UnityTempFile-d39249d96765f624e832009cd83f0b5f
+  - path: RollingTheBall011\Temp\UnityTempFile-dba1e59c18699b24fb449e93840f0aea
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-dba1e59c18699b24fb449e93840f0aea
+    projectPath: Temp\UnityTempFile-dba1e59c18699b24fb449e93840f0aea
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-dd544ada1abe6d7409ec5d90233e14f7
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-dd544ada1abe6d7409ec5d90233e14f7
-    projectPath: Temp\UnityTempFile-dd544ada1abe6d7409ec5d90233e14f7
+  - path: RollingTheBall011\Temp\UnityTempFile-e5e482ac9fe76a54187fd7c2f60a23ff
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-e5e482ac9fe76a54187fd7c2f60a23ff
+    projectPath: Temp\UnityTempFile-e5e482ac9fe76a54187fd7c2f60a23ff
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-e3aa021b2b434d94f99e2d92be2259d3
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-e3aa021b2b434d94f99e2d92be2259d3
-    projectPath: Temp\UnityTempFile-e3aa021b2b434d94f99e2d92be2259d3
+  - path: RollingTheBall011\Temp\UnityTempFile-eb285bd0cf49f7e41bb51ccf276c651c
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-eb285bd0cf49f7e41bb51ccf276c651c
+    projectPath: Temp\UnityTempFile-eb285bd0cf49f7e41bb51ccf276c651c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\UnityTempFile-ec993d9b3172df64298379ffedeba920
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-ec993d9b3172df64298379ffedeba920
-    projectPath: Temp\UnityTempFile-ec993d9b3172df64298379ffedeba920
+  - path: RollingTheBall011\Temp\UnityTempFile-f089968247450804990b1d770aa40915
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-f089968247450804990b1d770aa40915
+    projectPath: Temp\UnityTempFile-f089968247450804990b1d770aa40915
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: RollingTheBall011\Temp\workerlic
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\workerlic
-    projectPath: Temp\workerlic
+  - path: RollingTheBall011\Temp\UnityTempFile-f1ba4eb77290dd2489561dd957cd5508
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-f1ba4eb77290dd2489561dd957cd5508
+    projectPath: Temp\UnityTempFile-f1ba4eb77290dd2489561dd957cd5508
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: RollingTheBall011\UserSettings\EditorUserSettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\UserSettings\EditorUserSettings.asset
-    projectPath: UserSettings\EditorUserSettings.asset
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-f88155fe28b667c4fa8025bedbb4757f
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-f88155fe28b667c4fa8025bedbb4757f
+    projectPath: Temp\UnityTempFile-f88155fe28b667c4fa8025bedbb4757f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: RollingTheBall011\Temp\UnityTempFile-fd51f768684f203458631c62049c335d
+    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Temp\UnityTempFile-fd51f768684f203458631c62049c335d
+    projectPath: Temp\UnityTempFile-fd51f768684f203458631c62049c335d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5

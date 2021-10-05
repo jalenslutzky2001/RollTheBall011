@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class PlayerControl : MonoBehaviour
 
@@ -14,8 +15,13 @@ public class PlayerControl : MonoBehaviour
     private float movementX;
     private float movementY;
 
+
     private Rigidbody rb;
     private int count;
+
+    public LayerMask groundLayers;
+
+    public float jumpForce = 7;
 
 
     // Start is called before the first frame update
@@ -45,6 +51,12 @@ public class PlayerControl : MonoBehaviour
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
 
         rb.AddForce(movement * speed);
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+        }
+
     }
 
     private void OnTriggerEnter(Collider other)
@@ -58,6 +70,11 @@ public class PlayerControl : MonoBehaviour
             SetCountText();
 
         }
+
+        if(other.gameObject.CompareTag("Enemy"))
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
        
     }
 
@@ -66,7 +83,7 @@ public class PlayerControl : MonoBehaviour
     {
         countText.text = "Count: " + count.ToString();
 
-        if (count >= 12)
+        if (count >= 6)
         {
             // Set the text value of your 'winText'
             winTextObject.SetActive(true);

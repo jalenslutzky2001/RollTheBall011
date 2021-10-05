@@ -16,6 +16,10 @@ public class PlayerController : MonoBehaviour
     private Rigidbody rb;
     private int count;
 
+    public LayerMask groundLayers;
+
+    public float jumpForce = 7;
+
 
     // Start is called before the first frame update
     void Start()
@@ -36,6 +40,10 @@ public class PlayerController : MonoBehaviour
         movementX = movementVector.x;
         movementY = movementVector.y;
 
+        if (Input.GetButtonDown("Jump"))
+        {
+            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+        }
     }
 
 
@@ -44,6 +52,7 @@ public class PlayerController : MonoBehaviour
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
 
         rb.AddForce(movement * speed);
+
     }
 
     private void OnTriggerEnter(Collider other)
@@ -65,7 +74,7 @@ public class PlayerController : MonoBehaviour
     {
         countText.text = "Count: " + count.ToString();
 
-        if (count >= 12)
+        if (count >= 6)
         {
             // Set the text value of your 'winText'
             winTextObject.SetActive(true);
