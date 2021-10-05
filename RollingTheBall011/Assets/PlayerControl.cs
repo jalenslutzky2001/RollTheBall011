@@ -45,17 +45,16 @@ public class PlayerControl : MonoBehaviour
 
     }
 
+    void OnJump(InputValue movementValue)
+    {
+        rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
+    }
 
     void FixedUpdate()
     {
         Vector3 movement = new Vector3(movementX, 0.0f, movementY);
 
         rb.AddForce(movement * speed);
-
-        if (Input.GetButtonDown("Jump"))
-        {
-            rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
-        }
 
     }
 
