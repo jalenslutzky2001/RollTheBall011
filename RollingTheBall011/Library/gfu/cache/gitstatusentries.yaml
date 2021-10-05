@@ -13,42 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-10-05T15:55:13.109-04:00
-  initializedAtString: 2021-10-05T15:51:51.418-04:00
+  lastUpdatedAtString: 2021-10-05T16:03:50.183-04:00
+  initializedAtString: 2021-10-05T16:03:42.266-04:00
   entries:
-  - path: RollingTheBall011\Assets\PlayerControl.cs
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Assets\PlayerControl.cs
-    projectPath: Assets\PlayerControl.cs
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: RollingTheBall011\Library\ArtifactDB
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RollingTheBall011\Library\Artifacts\37\37eb31e0e350a3179c6e057f3faa2e77
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\37\37eb31e0e350a3179c6e057f3faa2e77
-    projectPath: Library\Artifacts\37\37eb31e0e350a3179c6e057f3faa2e77
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: RollingTheBall011\Library\Artifacts\57\57920d2b0c0f8371b516540b1cf8745f
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\Artifacts\57\57920d2b0c0f8371b516540b1cf8745f
-    projectPath: Library\Artifacts\57\57920d2b0c0f8371b516540b1cf8745f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: RollingTheBall011\Library\EditorInstance.json
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RollingTheBall011\Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -76,12 +52,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: RollingTheBall011\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: RollingTheBall011\Library\SourceAssetDB
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -97,12 +67,6 @@ MonoBehaviour:
   - path: RollingTheBall011\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
     projectPath: Library\StateCache\SceneView\8c\8cd7c613bf844de3b80696e27a479d5e.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: RollingTheBall011\ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\jslut\OneDrive\Documents\GitHub\RollTheBall011\RollingTheBall011\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
